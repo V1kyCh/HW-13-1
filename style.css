@@ -1,0 +1,9 @@
+.bg-box {
+    width: 1431px;
+    height: 750px;
+    background-image: url(./img/pole-hata.jpeg), url(./img/lamp.png), url(./img/grass.png), url(./img/yizhak.webp), url(./img/ponchik.png);
+    background-color: greenyellow;
+    background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+    background-position: center, top left, bottom left, left top, right top;
+    background-size: 600px, 50px, 300px, 50px, 50px;
+}
